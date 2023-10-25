@@ -116,3 +116,24 @@ footer {
     align-items: center;
 }
 
+
+
+.content {
+    padding: 20px;
+    /* Adicione margem inferior para deixar espaço para o botão */
+    margin-bottom: 60px;
+}
+
+/* Estilos para o botão Home */
+.home-button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.home-button img {
+    width: 60px; /* Ajuste o tamanho da imagem conforme necessário */
+    height: 60px;
+    cursor: pointer;
+}
+
